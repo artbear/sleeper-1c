@@ -26,7 +26,7 @@ Sleeper.Sleep(3000);
 ⚠ MacOS (compiled but not tested)  
 ✔ Android  
 ❌ iOS  
-❌ Browser Extenstions
+❌ Browser Extensions
 
 ## License exclusions
 
